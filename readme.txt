@@ -1,0 +1,1 @@
+In order to run C.O.L.E correctly please open the website.html file.
